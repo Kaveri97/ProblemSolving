@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
+  //Program to sort elements of an array - Selection Sort
   int n,k,tmp;
   cin>>n;
   int a[n];
